@@ -1,0 +1,1 @@
+"I learned how to install and configure essential web development tools like node.js and VS code, created and ran a basic HTML webpage, Used Git And GitHub for version control" 
